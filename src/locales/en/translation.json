@@ -1,0 +1,237 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title_start": "Hi, I'm",
+    "title_name": "Abubakr",
+    "subtitle": "I develop 3D visuals, user <br className='sm:block hidden' /> interfaces and web applications",
+    "typewriter": [
+      "Welcome to my digital world",
+      "Frontend Developer",
+      "English Instructor",
+      "Customer Support Specialist (Uzum Market)",
+      "Multilingual Communicator",
+      "FLEX Program Alumnus",
+      "Model UN Member",
+      "Varsity Swimmer",
+      "Varsity Diver"
+    ]
+  },
+  "about": {
+    "introduction": "Introduction",
+    "overview": "About",
+    "text": "I'm a frontend developer and a Software Engineering student at TUIT. I build clean, fast websites with React and Tailwind, and I've worked as a frontend developer and an English instructor. I like turning ideas into simple, user-friendly products."
+  },
+  "works": {
+    "title": "My work",
+    "header": "Projects.",
+    "description": "The following projects showcase my skills and experience through real-world examples. Each project includes links to code repositories and live demos, demonstrating my ability to solve complex problems, utilize diverse technologies, and manage workflows effectively.",
+    "coming_soon": "Coming soon...",
+    "github_text": "Explore more projects and source code on my GitHub profile.",
+    "github_btn": "GitHub"
+  },
+  "tech": {
+    "title": "My tools & roles",
+    "header": "Skills."
+  },
+  "skills": {
+    "frontend": "Front-End Developer",
+    "html": "HTML",
+    "css": "CSS",
+    "javascript": "JavaScript",
+    "tailwind": "Tailwind CSS",
+    "react": "React",
+    "esl": "English Instructor",
+    "swimmer": "Varsity Swimmer",
+    "diver": "Varsity Diver"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "header": "Contact.",
+    "name_label": "Your Name",
+    "name_placeholder": "What's your name?",
+    "email_label": "Your Email",
+    "email_placeholder": "What's your email?",
+    "message_label": "Your Message",
+    "message_placeholder": "What do you want to say?",
+    "send": "Send",
+    "sending": "Sending...",
+    "success_alert": "Thank you. I will get back to you as soon as possible.",
+    "fail_alert": "Something went wrong. Please try again."
+  },
+  "socials": {
+    "subtitle": "Connect with me",
+    "header": "Social Media."
+  },
+  "projects_list": {
+    "namedu_desc": "A centralized educational platform developed for the Namangan Regional Department of Education, providing clear, structured information about schools, programs, and academic resources for students, teachers, and parents.",
+    "namozlarim_desc": "A modern Muslim prayer tracking and personal accountability web platform for tracking daily prayer times, calculating missed prayers, and personal discipline."
+  },
+  "my_words": "Download my comprehensive portfolio and CV below. I look forward to potential collaborations.",
+  "cv": {
+    "subtitle": "Resume & Credentials",
+    "title": "Career & Credentials.",
+    "download": "Download CV",
+    "download_cv": "Download CV",
+    "open_new_tab": "View in new tab",
+    "name": "Abubakr Akmalkhonov",
+    "role": "Frontend Developer",
+    "badge_format": "PDF",
+    "badge_size": "168 KB",
+    "badge_date": "2026",
+    "preview_alt": "Abubakr Akmalkhonov CV Preview",
+    "view_preview": "Click to expand preview",
+    "tabs": {
+      "all": "All",
+      "experience": "Experience",
+      "education": "Education",
+      "certs_languages": "Certs & Languages"
+    },
+    "sections": {
+      "experience": "Work Experience",
+      "education": "Educational Background",
+      "certs": "Certifications & Activities",
+      "languages": "Languages"
+    },
+    "experience": [
+      {
+        "id": "exp-1",
+        "role": "Chat Support",
+        "company": "Uzum Market",
+        "period": "09/2026–Present",
+        "description": "Providing responsive customer care, resolving order and account inquiries, handling client disputes, and maintaining high satisfaction across Uzbekistan's leading e-commerce ecosystem.",
+        "tags": ["Customer Support", "E-commerce", "Dispute Resolution", "Communication"]
+      },
+      {
+        "id": "exp-2",
+        "role": "Assistant Manager",
+        "company": "Boborahim Mashrab Learning Center",
+        "period": "07/2026–09/2026",
+        "description": "Coordinated administrative operations, optimized instructor schedules, streamlined student enrollment, and assisted leadership in academic delivery quality.",
+        "tags": ["Operations", "Team Coordination", "Administration", "Scheduling"]
+      },
+      {
+        "id": "exp-3",
+        "role": "Frontend Developer",
+        "company": "TECH DATA SOFT",
+        "period": "05/2024–07/2025",
+        "description": "Built and maintained responsive web applications, created performant UI components with React and JavaScript, and integrated clean APIs for client projects.",
+        "tags": ["React", "JavaScript", "Frontend Architecture", "UI/UX", "TailwindCSS"]
+      },
+      {
+        "id": "exp-4",
+        "role": "English Instructor",
+        "company": "Boborahim Mashrab Learning Center",
+        "period": "09/2023–08/2025",
+        "description": "Mentored and instructed 200+ students in ESL courses, developing structured curricula, interactive speaking clubs, and grammar foundation workshops.",
+        "tags": ["ESL Teaching", "200+ Students", "Mentorship", "Public Speaking", "Curriculum"]
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-1",
+        "degree": "Tashkent University of Information Technologies",
+        "period": "2026–Present",
+        "description": "Higher education in Information Technologies, computer systems, software engineering foundations, and data structures.",
+        "link": "https://tuit.uz",
+        "tags": ["Higher Education", "Computer Science", "Software Engineering"]
+      },
+      {
+        "id": "edu-2",
+        "degree": "Capital High School, Washington, USA",
+        "period": "2025–2026",
+        "description": "US high school academic exchange year, student leadership, advanced coursework, and community engagement.",
+        "link": "https://www.instagram.com/capitalcougsasbleadership/",
+        "plain": true,
+        "tags": ["Exchange Year", "USA", "High School", "Leadership"]
+      },
+      {
+        "id": "edu-3",
+        "degree": "2nd Vocational College, Namangan",
+        "period": "2024–2025",
+        "description": "Specialized vocational education in computer technologies, networking, and applied informatics.",
+        "link": "",
+        "tags": ["Vocational", "Informatics", "Technical Foundations"]
+      },
+      {
+        "id": "edu-4",
+        "degree": "School No. 7, Namangan",
+        "period": "2016–2024",
+        "description": "Secondary school education with high academic achievements and focused preparation in exact sciences.",
+        "link": "",
+        "tags": ["Secondary Education", "Academics", "Foundations"]
+      }
+    ],
+    "certs_activities": [
+      {
+        "id": "cert-1",
+        "title": "FLEX Program Alumnus",
+        "period": "2025–2026",
+        "organization": "U.S. Department of State",
+        "description": "Prestigious merit-based exchange scholarship in the United States; completed 40+ hours of community service and volunteer initiatives.",
+        "tags": ["FLEX Exchange", "40+ Hours Community Service", "U.S. State Dept", "Scholarship"]
+      },
+      {
+        "id": "cert-2",
+        "title": "Model UN Club Member",
+        "period": "Active Member",
+        "organization": "Model United Nations",
+        "description": "Participated in international debate simulations, drafted policy resolutions, and developed diplomacy and public speaking skills.",
+        "tags": ["Model UN", "Diplomacy", "Debate & Public Speaking", "Policy Resolution"]
+      },
+      {
+        "id": "cert-3",
+        "title": "Varsity Swim & Dive Team",
+        "period": "Athlete",
+        "organization": "Capital High School Athletics",
+        "description": "Represented school in competitive varsity swimming and diving events, demonstrating peak athletic discipline, resilience, and teamwork.",
+        "tags": ["Varsity Athletics", "Competitive Swimming", "Diving", "Teamwork & Discipline"]
+      }
+    ],
+    "languages": [
+      {
+        "id": "lang-uz",
+        "name": "Uzbek",
+        "code": "UZ",
+        "level": "Native",
+        "proficiency": 100,
+        "bars": 5
+      },
+      {
+        "id": "lang-en",
+        "name": "English",
+        "code": "EN",
+        "level": "Fluent",
+        "proficiency": 95,
+        "bars": 5
+      },
+      {
+        "id": "lang-ru",
+        "name": "Russian",
+        "code": "RU",
+        "level": "Advanced",
+        "proficiency": 85,
+        "bars": 4
+      },
+      {
+        "id": "lang-es",
+        "name": "Spanish",
+        "code": "ES",
+        "level": "Beginner",
+        "proficiency": 35,
+        "bars": 2
+      }
+    ]
+  },
+  "footer": {
+    "subtitle": "Personal Portfolio",
+    "get_in_touch": "Get in touch",
+    "email": "Email:",
+    "rights": "All rights reserved."
+  }
+}
